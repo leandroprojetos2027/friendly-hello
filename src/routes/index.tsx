@@ -13,7 +13,7 @@ const shops = [
   { id: 1, name: "The Gentleman", area: "Pocitos", rating: "4.9", reviews: 248, price: "$U 850", type: "Clássica", tag: "MAIS RESERVADA", image: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=900&q=85", detail: "Tradição, precisão e uma experiência feita para você." },
   { id: 2, name: "Black Oak Barber", area: "Punta Carretas", rating: "5.0", reviews: 186, price: "$U 1.100", type: "Contemporânea", tag: "EXPERIÊNCIA PREMIUM", image: "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=900&q=85", detail: "Design contemporâneo e atenção a cada detalhe." },
   { id: 3, name: "Casa Barba", area: "Carrasco", rating: "4.8", reviews: 132, price: "$U 950", type: "Clássica", tag: "AMBIENTE EXCLUSIVO", image: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=900&q=85", detail: "Um refúgio masculino para cuidar do seu estilo." },
-  { id: 4, name: "Distrito 01", area: "Cordón", rating: "4.9", reviews: 97, price: "$U 750", type: "Urbana", tag: "NOVO NO CLUBE", image: "https://images.unsplash.com/photo- barber?auto=format&fit=crop&w=900&q=85", detail: "Atitude urbana, técnica apurada e personalidade." },
+  { id: 4, name: "Distrito 01", area: "Cordón", rating: "4.9", reviews: 97, price: "$U 750", type: "Urbana", tag: "NOVO NO CLUBE", image: "https://images.unsplash.com/photo-1512690459411-b9245aed614b?auto=format&fit=crop&w=900&q=85", detail: "Atitude urbana, técnica apurada e personalidade." },
 ];
 
 function Index() {
